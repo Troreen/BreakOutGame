@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/bedir/BreakOutGame/Content/ball.png","C:/Users/bedir/BreakOutGame/Content/bin/DesktopGL/Content/ball.xnb","TextureProcessor","Texture2DContent",2958,661,0.1332455
+"C:/Users/bedir/BreakOutGame/Content/File.spritefont","C:/Users/bedir/BreakOutGame/Content/bin/DesktopGL/Content/Arial.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.2397231
+"C:/Users/bedir/BreakOutGame/Content/player.png","C:/Users/bedir/BreakOutGame/Content/bin/DesktopGL/Content/player.xnb","TextureProcessor","Texture2DContent",3591,6205,0.0019049
+"C:/Users/bedir/BreakOutGame/Content/tile.png","C:/Users/bedir/BreakOutGame/Content/bin/DesktopGL/Content/tile.xnb","TextureProcessor","Texture2DContent",2816,3285,0.1731872
